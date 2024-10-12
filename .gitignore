@@ -1,0 +1,9 @@
+# Ignore files
+.gradio/
+faceshapex/__pycache__/
+faceshapex/faceshapex/
+*.jpg
+tests/
+view_image.py
+check_database.py
+create_test_image.py
